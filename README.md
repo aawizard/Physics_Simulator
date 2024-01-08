@@ -6,7 +6,7 @@ This README provides an overview of the ME314 Final Project, focusing on the ana
 
 ## System Description
 
-![](imges/jack_diag.png)
+![](images/jack_diag.png)
 
 
 Illustrates the box and dice system with corresponding frames. The world frame {W} and box center frame {BC} are at the same location. BS1 and JS1 correspond to the first corner of the box and jack, respectively.
