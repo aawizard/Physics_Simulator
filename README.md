@@ -38,7 +38,7 @@ Illustrates the box and dice system with corresponding frames. The world frame {
 ## Impact Calculation
 
 - Define impacts as corners of the die coming into contact with a side of the box.
-- Calculate impacts using transforms shown in Figure 2.
+- Calculate impacts using transforms.
 - Check for impacts along the y-axis of the box corner frame.
 - 16 total impacts to check (4 sides of the box for each of the 4 die corners).
 
